@@ -1,0 +1,4 @@
+site,reporting_minutes,downtime_minutes,sla_target
+DC-East,43200,2,99.99
+DC-West,43200,15,99.99
+Office-North,43200,35,99.90
